@@ -1,0 +1,42 @@
+# Eclipse
+/.classpath
+/.project
+/.settings/
+.metadata/
+bin/
+
+# Maven
+/target/
+/pom.xml.tag
+/pom.xml.releaseBackup
+/pom.xml.versionsBackup
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# IntelliJ
+*.iml
+.idea/
+
+# Logs and OS files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Test reports, screenshots
+test-output/
+Screenshots/
+reports/
+*.png
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Others
+node_modules/
+.env
